@@ -213,4 +213,4 @@ X-GNOME-Autostart-enabled=true
 ```
 
 ## Credits
-* [Christian Deacon](https://github.com/gamemann)
+* [Kenji Braun](https://github.com/kenjibraun-pro)
